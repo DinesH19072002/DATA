@@ -8,3 +8,4 @@ model=pickle.load(open("model/model.pkl",'rb'))
 scaler=pickle.load(open("model/scaler.pkl,'rb'))
 
 @app.route
+this is my new project...............
